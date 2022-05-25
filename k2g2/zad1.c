@@ -5,7 +5,7 @@
 
 int main(){
 	
-	int i, n, k = 3, m=0, r=0;
+	int i, n, k = 10, m=0, r=0;
 	float x[20], y[20], srVrX=0, srVrY=0, z[200], w[200];
 	
 	do{
