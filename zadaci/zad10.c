@@ -1,3 +1,9 @@
+
+/*
+		Fali ono crvenim slovima jer ne kontam sta traze
+*/
+
+
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
